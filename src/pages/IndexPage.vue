@@ -8,7 +8,7 @@
         v-model="form.name"
       />
 
-      <q-input
+      <q-inpu
         filled
         label="Your age *"
         type="number"
